@@ -2,7 +2,7 @@
 
 ![image](https://github.com/todaylg/self-introduction/blob/master/intro/intro.gif)
 
-Source code of [todaylg.com](https://todaylg.com), based on threejs and vue.
+Source code of [todaylg.com](https://todaylg.github.io), based on threejs and vue.
 
 ## Usage
 
