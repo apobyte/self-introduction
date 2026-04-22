@@ -2,8 +2,6 @@
 
 ![image](https://github.com/todaylg/self-introduction/blob/master/intro/intro.gif)
 
-Source code of [todaylg.github.io](https://todaylg.github.io), based on threejs and vue.
-
 ## Usage
 
 1. Install the necessary node modules.
